@@ -1,4 +1,4 @@
-# DCGAN with ChainerUI
+# VAE (MNIST) with ChainerUI
 
 original code: [chainerui/examples](https://github.com/chainer/chainerui/tree/master/examples)
 
