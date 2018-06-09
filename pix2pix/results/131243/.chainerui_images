@@ -1,0 +1,32 @@
+[
+    {
+        "iteration": 1000,
+        "epoch": 3,
+        "images": {
+            "in": [
+                "iter_1000_13b5bfe9_0.png"
+            ],
+            "gen": [
+                "iter_1000_daffed34_0.png"
+            ],
+            "gt": [
+                "iter_1000_1bfad22f_0.png"
+            ]
+        }
+    },
+    {
+        "iteration": 2000,
+        "epoch": 6,
+        "images": {
+            "in": [
+                "iter_2000_13b5bfe9_0.png"
+            ],
+            "gen": [
+                "iter_2000_daffed34_0.png"
+            ],
+            "gt": [
+                "iter_2000_1bfad22f_0.png"
+            ]
+        }
+    }
+]
