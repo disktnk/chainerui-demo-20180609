@@ -1,0 +1,92 @@
+[
+    {
+        "images": {
+            "0": [
+                "iter_1000_cfcd2084_0.png"
+            ]
+        },
+        "epoch": 1,
+        "iteration": 1000
+    },
+    {
+        "images": {
+            "0": [
+                "iter_2000_cfcd2084_0.png"
+            ]
+        },
+        "epoch": 2,
+        "iteration": 2000
+    },
+    {
+        "images": {
+            "0": [
+                "iter_3000_cfcd2084_0.png"
+            ]
+        },
+        "epoch": 3,
+        "iteration": 3000
+    },
+    {
+        "images": {
+            "0": [
+                "iter_4000_cfcd2084_0.png"
+            ]
+        },
+        "epoch": 4,
+        "iteration": 4000
+    },
+    {
+        "images": {
+            "0": [
+                "iter_5000_cfcd2084_0.png"
+            ]
+        },
+        "epoch": 5,
+        "iteration": 5000
+    },
+    {
+        "images": {
+            "0": [
+                "iter_6000_cfcd2084_0.png"
+            ]
+        },
+        "epoch": 6,
+        "iteration": 6000
+    },
+    {
+        "images": {
+            "0": [
+                "iter_7000_cfcd2084_0.png"
+            ]
+        },
+        "epoch": 7,
+        "iteration": 7000
+    },
+    {
+        "images": {
+            "0": [
+                "iter_8000_cfcd2084_0.png"
+            ]
+        },
+        "epoch": 8,
+        "iteration": 8000
+    },
+    {
+        "images": {
+            "0": [
+                "iter_9000_cfcd2084_0.png"
+            ]
+        },
+        "epoch": 9,
+        "iteration": 9000
+    },
+    {
+        "images": {
+            "0": [
+                "iter_10000_cfcd2084_0.png"
+            ]
+        },
+        "epoch": 10,
+        "iteration": 10000
+    }
+]
