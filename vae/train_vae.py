@@ -3,7 +3,6 @@
 """
 from __future__ import print_function
 import argparse
-import os
 
 import chainer
 from chainer import training
@@ -88,8 +87,9 @@ def main():
         x = chainer.Variable(np.asarray(train[train_ind]))
         with chainer.using_config('train', False), chainer.no_backprop_mode():
             x1 = model(x)
+
         def convert(x):
-            return x.reshape(9, 28, 28).transpose(0, 2, 1)
+            return x.reshape(len(train_ind), 28, 28)
         summary.image(convert(x), name='train', row=3)
         summary.image(convert(x1), name='train_reconstructed', row=3)
 

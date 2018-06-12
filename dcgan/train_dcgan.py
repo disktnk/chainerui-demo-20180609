@@ -103,7 +103,7 @@ def main():
     trainer.extend(extensions.ProgressBar(update_interval=10))
     visualizer = out_generated_image(gen, dis, 10, 10, args.seed)
     trainer.extend(ImageReport(
-        trigger=(1, 'iteration'), image_generator=visualizer))
+        trigger=(1, 'epoch'), image_generator=visualizer))
 
     if args.resume:
         # Resume from a snapshot
