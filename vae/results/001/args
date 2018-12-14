@@ -1,0 +1,10 @@
+{
+    "initmodel": "",
+    "resume": "",
+    "gpu": -1,
+    "out": "results/001",
+    "epoch": 50,
+    "dimz": 20,
+    "batchsize": 100,
+    "test": false
+}

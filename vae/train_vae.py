@@ -7,6 +7,7 @@ import chainer
 from chainer import training
 from chainer.training import extensions
 from chainerui import summary
+from chainerui.utils import save_args
 import numpy as np
 
 import net
@@ -95,7 +96,7 @@ def main():
 
         epoch = trainer.updater.epoch
         iteration = trainer.updater.iteration
-        with summary.reporter(args.out, epoch=epoch, iteration=iteration) as r:
+        with summary.reporter(epoch=epoch, iteration=iteration) as r:
             r.image(x.reshape(len(train_ind), 28, 28), 'train', row=3)
             r.image(x1.reshape(len(train_ind), 28, 28), 'train_reconstructed',
                     row=3)
@@ -103,7 +104,9 @@ def main():
             r.image(x1_test.reshape(len(test_ind), 28, 28),
                     'test_reconstructed', row=3)
             r.image(x_sampled.reshape(9, 28, 28), 'sampled', row=3)
-    trainer.extend(out_generated_image, trigger=(1, 'epoch'))
+    trainer.extend(out_generated_image, trigger=(5, 'epoch'))
+    summary.set_out(args.out)
+    save_args(args, args.out)
 
     if args.resume:
         chainer.serializers.load_npz(args.resume, trainer)

@@ -1,122 +1,122 @@
 [
     {
-        "epoch": 1,
-        "iteration": 600,
-        "images": {
-            "train": "train_c51c62b341e1.png",
-            "train_reconstructed": "train_reconstructed_77fa75b67eb2.png",
-            "test": "test_cf7637bcf26f.png",
-            "test_reconstructed": "test_reconstructed_a69735e01fd2.png",
-            "sampled": "sampled_dbd92e96c7e0.png"
-        },
-        "timestamp": "2018-11-13T16:28:16.312954"
-    },
-    {
-        "epoch": 2,
-        "iteration": 1200,
-        "images": {
-            "train": "train_0b9dd25bb325.png",
-            "train_reconstructed": "train_reconstructed_37cd050d4242.png",
-            "test": "test_b0790c01c60c.png",
-            "test_reconstructed": "test_reconstructed_5e97f26adca2.png",
-            "sampled": "sampled_755e0f8b17cd.png"
-        },
-        "timestamp": "2018-11-13T16:28:44.116273"
-    },
-    {
-        "epoch": 3,
-        "iteration": 1800,
-        "images": {
-            "train": "train_5f7d9c03ff75.png",
-            "train_reconstructed": "train_reconstructed_4e942bc3066a.png",
-            "test": "test_5b875e2dff7f.png",
-            "test_reconstructed": "test_reconstructed_0806a0aa9c5e.png",
-            "sampled": "sampled_11f8250967af.png"
-        },
-        "timestamp": "2018-11-13T16:29:11.328810"
-    },
-    {
-        "epoch": 4,
-        "iteration": 2400,
-        "images": {
-            "train": "train_a48e66203e0f.png",
-            "train_reconstructed": "train_reconstructed_e898520a8803.png",
-            "test": "test_fcb915503bdd.png",
-            "test_reconstructed": "test_reconstructed_4c5fedfa9c73.png",
-            "sampled": "sampled_99dae3db36e0.png"
-        },
-        "timestamp": "2018-11-13T16:29:37.647356"
-    },
-    {
         "epoch": 5,
         "iteration": 3000,
         "images": {
-            "train": "train_cae0bc19ef75.png",
-            "train_reconstructed": "train_reconstructed_8f527a0d0593.png",
-            "test": "test_1fac325f34ea.png",
-            "test_reconstructed": "test_reconstructed_1425cba2fc06.png",
-            "sampled": "sampled_6681b011281d.png"
+            "train": "train_96b0f5c1cee1.png",
+            "train_reconstructed": "train_reconstructed_c49025135304.png",
+            "test": "test_0f3564cdf6be.png",
+            "test_reconstructed": "test_reconstructed_6e1bea382452.png",
+            "sampled": "sampled_d399eb821365.png"
         },
-        "timestamp": "2018-11-13T16:30:04.459215"
-    },
-    {
-        "epoch": 6,
-        "iteration": 3600,
-        "images": {
-            "train": "train_20aed77573a6.png",
-            "train_reconstructed": "train_reconstructed_d85310a2c540.png",
-            "test": "test_ef869451b7a3.png",
-            "test_reconstructed": "test_reconstructed_060530416294.png",
-            "sampled": "sampled_f9c7f14245a9.png"
-        },
-        "timestamp": "2018-11-13T16:30:34.079764"
-    },
-    {
-        "epoch": 7,
-        "iteration": 4200,
-        "images": {
-            "train": "train_51d4d5085a17.png",
-            "train_reconstructed": "train_reconstructed_9cebef291df4.png",
-            "test": "test_58a5b4ac4e61.png",
-            "test_reconstructed": "test_reconstructed_c8c22a4cb4ec.png",
-            "sampled": "sampled_f942e5f01c44.png"
-        },
-        "timestamp": "2018-11-13T16:31:02.344676"
-    },
-    {
-        "epoch": 8,
-        "iteration": 4800,
-        "images": {
-            "train": "train_e9fd2d00491c.png",
-            "train_reconstructed": "train_reconstructed_b3f3a7691eb6.png",
-            "test": "test_aa5314b0bfad.png",
-            "test_reconstructed": "test_reconstructed_4cc74e17891d.png",
-            "sampled": "sampled_2d35bc7d8557.png"
-        },
-        "timestamp": "2018-11-13T16:31:29.865822"
-    },
-    {
-        "epoch": 9,
-        "iteration": 5400,
-        "images": {
-            "train": "train_7f7a134fa4e5.png",
-            "train_reconstructed": "train_reconstructed_5bcb0f9f70e4.png",
-            "test": "test_8f0c2b5b54a6.png",
-            "test_reconstructed": "test_reconstructed_ddc2fc080e3c.png",
-            "sampled": "sampled_41578903ef04.png"
-        },
-        "timestamp": "2018-11-13T16:31:59.696603"
+        "timestamp": "2018-12-14T16:03:40.983803"
     },
     {
         "epoch": 10,
         "iteration": 6000,
         "images": {
-            "train": "train_09d00ea0854f.png",
-            "train_reconstructed": "train_reconstructed_e815cd75b542.png",
-            "test": "test_483c87f34867.png",
-            "test_reconstructed": "test_reconstructed_2d0483c56973.png",
-            "sampled": "sampled_e53da5f8b6e6.png"
+            "train": "train_3693a14249de.png",
+            "train_reconstructed": "train_reconstructed_3adf360a7a7e.png",
+            "test": "test_426e23e80278.png",
+            "test_reconstructed": "test_reconstructed_581301550392.png",
+            "sampled": "sampled_34ee1d03e834.png"
         },
-        "timestamp": "2018-11-13T16:32:26.812934"
+        "timestamp": "2018-12-14T16:06:42.478814"
+    },
+    {
+        "epoch": 15,
+        "iteration": 9000,
+        "images": {
+            "train": "train_1e8bde35b1f5.png",
+            "train_reconstructed": "train_reconstructed_e6a66b911563.png",
+            "test": "test_d6634d215db2.png",
+            "test_reconstructed": "test_reconstructed_b00f7b9e3e24.png",
+            "sampled": "sampled_b57f4c0ae727.png"
+        },
+        "timestamp": "2018-12-14T16:09:44.023852"
+    },
+    {
+        "epoch": 20,
+        "iteration": 12000,
+        "images": {
+            "train": "train_2c3d07d786dd.png",
+            "train_reconstructed": "train_reconstructed_1d068b2814b5.png",
+            "test": "test_7df946c4a9cf.png",
+            "test_reconstructed": "test_reconstructed_5c31e815c01c.png",
+            "sampled": "sampled_8f5ae2fba01e.png"
+        },
+        "timestamp": "2018-12-14T16:12:29.968353"
+    },
+    {
+        "epoch": 25,
+        "iteration": 15000,
+        "images": {
+            "train": "train_2aa8f11c96c7.png",
+            "train_reconstructed": "train_reconstructed_4d37e1832333.png",
+            "test": "test_1b51bd591427.png",
+            "test_reconstructed": "test_reconstructed_9339090c51bc.png",
+            "sampled": "sampled_b311f683d869.png"
+        },
+        "timestamp": "2018-12-14T16:15:14.908255"
+    },
+    {
+        "epoch": 30,
+        "iteration": 18000,
+        "images": {
+            "train": "train_71f7c4721ded.png",
+            "train_reconstructed": "train_reconstructed_37d20052420e.png",
+            "test": "test_f5eb9d4eaeb2.png",
+            "test_reconstructed": "test_reconstructed_3deac6696e18.png",
+            "sampled": "sampled_409e9e6216fb.png"
+        },
+        "timestamp": "2018-12-14T16:18:01.807957"
+    },
+    {
+        "epoch": 35,
+        "iteration": 21000,
+        "images": {
+            "train": "train_28560da51b37.png",
+            "train_reconstructed": "train_reconstructed_471bbebe8704.png",
+            "test": "test_bb4ce027f829.png",
+            "test_reconstructed": "test_reconstructed_9c99f542e46c.png",
+            "sampled": "sampled_213902dedc58.png"
+        },
+        "timestamp": "2018-12-14T16:21:32.832680"
+    },
+    {
+        "epoch": 40,
+        "iteration": 24000,
+        "images": {
+            "train": "train_8f76f6261797.png",
+            "train_reconstructed": "train_reconstructed_ae78c6609dc0.png",
+            "test": "test_cfc662aa4771.png",
+            "test_reconstructed": "test_reconstructed_d2d332af0538.png",
+            "sampled": "sampled_6408ecc4ec9b.png"
+        },
+        "timestamp": "2018-12-14T16:24:49.997144"
+    },
+    {
+        "epoch": 45,
+        "iteration": 27000,
+        "images": {
+            "train": "train_d6bfe80108a2.png",
+            "train_reconstructed": "train_reconstructed_23570f112531.png",
+            "test": "test_0eef56aca629.png",
+            "test_reconstructed": "test_reconstructed_82460eb4a017.png",
+            "sampled": "sampled_7ce495f975ba.png"
+        },
+        "timestamp": "2018-12-14T16:27:41.983601"
+    },
+    {
+        "epoch": 50,
+        "iteration": 30000,
+        "images": {
+            "train": "train_7b59ea8caa8c.png",
+            "train_reconstructed": "train_reconstructed_e376ce9f8cc7.png",
+            "test": "test_b7f7d11e7030.png",
+            "test_reconstructed": "test_reconstructed_9eb7f5644f09.png",
+            "sampled": "sampled_09e3fbc6d9b9.png"
+        },
+        "timestamp": "2018-12-14T16:30:48.665515"
     }
 ]
